@@ -2,7 +2,7 @@ package com.amazonaws.s3.core;
 
 import com.amazonaws.AmazonClientException;
 import com.amazonaws.AmazonServiceException;
-import com.amazonaws.s3.opertaions.IS3Repository;
+import com.amazonaws.s3.operations.IS3Repository;
 
 public class S3Repository implements IS3Repository {
 

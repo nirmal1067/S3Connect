@@ -2,7 +2,7 @@ package com.amazonaws.s3.core;
 
 import java.io.IOException;
 
-import com.amazonaws.s3.opertaions.IWriter;
+import com.amazonaws.s3.operations.IWriter;
 import com.amazonaws.services.s3.model.PutObjectResult;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;

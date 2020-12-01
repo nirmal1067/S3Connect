@@ -1,4 +1,4 @@
-package com.amazonaws.s3.opertaions;
+package com.amazonaws.s3.operations;
 
 public interface IS3Repository {
 	

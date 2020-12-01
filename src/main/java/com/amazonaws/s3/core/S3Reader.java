@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-import com.amazonaws.s3.opertaions.IReader;
+import com.amazonaws.s3.operations.IReader;
 import com.amazonaws.services.s3.model.S3Object;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
